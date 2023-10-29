@@ -1,7 +1,11 @@
 {
     "cSpell.words": [
+        "backref",
         "dateutil",
         "fyyur",
+        "ilike",
+        "joinedload",
+        "levelname",
         "SQLALCHEMY",
         "urandom"
     ]
